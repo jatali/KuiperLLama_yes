@@ -1,0 +1,1 @@
+  -L/home/amax/KuiperLLama_yes/lib  -L/usr/local/cuda/lib64  -L"/usr/local/cuda/targets/x86_64-linux/lib/stubs"  -L"/usr/local/cuda/targets/x86_64-linux/lib"  /usr/local/lib/libgtest.a -lpthread -lcublas -lsentencepiece -lgtest -lgtest_main -lcudart  -lcudadevrt -lcudart_static -lrt -ldl 

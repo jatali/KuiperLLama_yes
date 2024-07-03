@@ -1,0 +1,9 @@
+/home/amax/KuiperLLama_yes/build/CMakeFiles/llama.dir
+/home/amax/KuiperLLama_yes/build/CMakeFiles/edit_cache.dir
+/home/amax/KuiperLLama_yes/build/CMakeFiles/rebuild_cache.dir
+/home/amax/KuiperLLama_yes/build/test/CMakeFiles/test_llm.dir
+/home/amax/KuiperLLama_yes/build/test/CMakeFiles/edit_cache.dir
+/home/amax/KuiperLLama_yes/build/test/CMakeFiles/rebuild_cache.dir
+/home/amax/KuiperLLama_yes/build/demo/CMakeFiles/llama_infer.dir
+/home/amax/KuiperLLama_yes/build/demo/CMakeFiles/edit_cache.dir
+/home/amax/KuiperLLama_yes/build/demo/CMakeFiles/rebuild_cache.dir
